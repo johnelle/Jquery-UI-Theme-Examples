@@ -1,0 +1,16 @@
+.todo-list {
+font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;
+background: #f2f5f7;
+border: 3px solid #dddddd;
+width: 25%;
+padding: 3px;
+}
+.todo-list h3 {
+color: #222222;
+padding-left: 5%;
+}
+.todo-list ul {
+font-size: 0.8em;
+color: #362b36;
+list-style-type: square;
+}
